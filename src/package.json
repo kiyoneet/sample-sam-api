@@ -1,0 +1,11 @@
+{
+  "name": "book-shelf",
+  "version": "1.0.0",
+  "description": "sample",
+  "main": "index.js",
+  "author": "yasumasa takai",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.478.0"
+  }
+}
