@@ -6,6 +6,6 @@
   "author": "yasumasa takai",
   "license": "MIT",
   "dependencies": {
-    "aws-sdk": "^2.478.0"
+    "aws-sdk": "^2.814.0"
   }
 }
